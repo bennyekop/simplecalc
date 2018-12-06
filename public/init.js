@@ -258,7 +258,7 @@ require(["jquery","text","css", "/body.js"], function(){
 					break;
 				case 3:
 					if(operandTwo == 0){
-						alert("Тоог тэгт хувааж болохгүй");
+						alert("Error COba Lagi..");
 					}
 					else{
 						result = operandOne / operandTwo;
