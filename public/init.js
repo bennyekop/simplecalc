@@ -258,7 +258,7 @@ require(["jquery","text","css", "/body.js"], function(){
 					break;
 				case 3:
 					if(operandTwo == 0){
-						alert("Error COba Lagi..");
+						alert("Error COba Ulangi..");
 					}
 					else{
 						result = operandOne / operandTwo;
